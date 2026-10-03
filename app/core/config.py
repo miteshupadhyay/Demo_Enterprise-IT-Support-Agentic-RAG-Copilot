@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     openai_api_key: str = ""
     tavily_api_key: str = ""
     pinecone_api_key: str = ""
-    pinecone_index_name: str = "FDE_IT_SUPPORT_RAG"
+    pinecone_index_name: str = "fde-it-support-rag"
     pinecone_namespace: str = "company-it-kb"
     embedding_model: str = "text-embedding-3-small"
     openai_model: str = "gpt-4o-mini"
