@@ -3,3 +3,5 @@
 # python -m venv agenticrag
 # agenticrag\Scripts\activate
 # pip install -r requirements.txt
+
+# Create Folder Structure
